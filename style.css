@@ -1,0 +1,49 @@
+body {
+    background-color: powderblue;
+    background-image: url("imgn2.jpg"),url(img02.jpg);
+    background-position: top,bottom;
+
+  }
+  h1 {
+    color: blue;
+    font-size: 56px;
+  }
+  h2{
+    color:azure;
+    font-size: 23px;
+  }
+  h3{
+   color: chartreuse;
+   text-align: left;
+   font-size: 40px;
+  }
+  h4{
+    color: royalblue;
+   text-align: left;
+   font-size: 20px;
+  }
+  h5{
+    color: royalblue;
+   text-align: left;
+   font-size: 20px;
+  }
+  h6{
+    color: royalblue;
+   text-align: left;
+   font-size: 20px;
+  }
+  p1{
+    color: black;
+    font-size: 20px ;
+  }
+  p2{
+    color: purple;
+    text-align: left;
+    font-size: 21px;
+  }
+  * {
+
+    text-align: center;
+    
+    }
+      
